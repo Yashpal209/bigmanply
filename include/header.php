@@ -68,7 +68,7 @@
     <div class="offcanvas-header ">
         <h5 class="btn btn-light" id="offcanvasRightLabel">Menu</h5>
 
-        <div class="col-6 col-md-2 bg-white rounded"> 
+        <div class="col-6 col-md-2 bg-white rounded">
             <a href="index.php" class=" align-items-center">
                 <img src="img/logo.png" class="logo" width="100%" alt="Home Furniture Logo">
             </a>
@@ -88,17 +88,19 @@
                     <li class="dropdown">
                         <a class="dropdown-item dropdown-toggle" href="door.php" id="submenuDoor">Door</a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="product.php?type=wooden">Wooden Doors</a></li>
-                            <li><a class="dropdown-item" href="product.php?type=glass">Glass Doors</a></li>
-                            <li><a class="dropdown-item" href="product.php?type=metal">Metal Doors</a></li>
+                            <li><a class="dropdown-item" href="wooden.php">Wooden Doors</a></li>
+                            <li><a class="dropdown-item" href="glass.php">Glass Doors</a></li>
+                            <li><a class="dropdown-item" href="metal.php">Metal Doors</a></li>
                         </ul>
                     </li>
-                    <li><a class="dropdown-item" href="product.php">Plywoods</a></li>
-                    <li><a class="dropdown-item" href="product.php">WPC Doors</a></li>
-                    <li><a class="dropdown-item" href="product.php">WPC Frames</a></li>
-                    <li><a class="dropdown-item" href="product.php">WPC Sheets</a></li>
-                    <li><a class="dropdown-item" href="product.php">Louver</a></li>
-                    <li><a class="dropdown-item" href="product.php">Setrin Ply</a></li>
+                    <li><a class="dropdown-item" href="plywood.php">Plywoods</a></li>
+                    <li><a class="dropdown-item" href="pdf/G20-doors-ply.pdf">Doors Ply</a></li>
+                    <li><a class="dropdown-item" href="pdf/Kaka-Profile-Door-Catalogue.pdf">WPC Doors</a></li>
+                    <li><a class="dropdown-item" href="pdf/PVC-FLUTED-WALL-&-CEILING-PANEL.pdf">PVC Fluted Wall & Ceiling Panel</a></li>
+                    <li><a class="dropdown-item" href="pdf/KAKA-PVC-Laminate.pdf">PVC Laminate</a></li>
+                    <li><a class="dropdown-item" href="pdf/Kaka-Stretta-Charcoal-Louvers-V-1.pdf">Stretta Charcoal Louver</a></li>
+                    <li><a class="dropdown-item" href="pdf/Kaka-Larga-Charcoal-Louvers-V-2.pdf">Larga Charcoal Louver</a></li>
+                    <li><a class="dropdown-item" href="pdf/KAKA-PVC-SOLID-PLY-CATALOG-NEW.pdf">Solid Ply</a></li>
                 </ul>
             </li>
 
@@ -108,12 +110,15 @@
                     Additional Products
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="additionalProductsDropdown">
-                    <li><a class="dropdown-item" href="products.php?category=sofa">Door Lock</a></li>
-                    <li><a class="dropdown-item" href="products.php?category=table">Hardware</a></li>
+                    <li><a class="dropdown-item" href="lock.php">Door Lock</a></li>
+                    <li><a class="dropdown-item" href="handels.php">Door Handels</a></li>
+                    <li><a class="dropdown-item" href="pdf/hardware.pdf">Hardware</a></li>
+                    <li><a class="dropdown-item" href="wardrobes.php">Wardrobes</a></li>
+                    <li><a class="dropdown-item" href="kitchan.php">Kitchan Cabinetry</a></li>
                 </ul>
             </li>
 
-            <li class="list-group-item"><a href="services" class="text-decoration-none">Services</a></li>
+            <li class="list-group-item"><a href="services.php" class="text-decoration-none">Services</a></li>
             <li class="list-group-item"><a href="contact.php" class="text-decoration-none">Contact</a></li>
         </ul>
         <div class="offcanvas-footer">

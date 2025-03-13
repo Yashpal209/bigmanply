@@ -280,7 +280,7 @@
                                     </div>
                                     <div class="col-md-12 col-8">
                                         <h5 class="mb-1 border-bottom">Kaka Door</h5>
-                                        <p class="mb-2 text-muted text-start">Premium quality doors crafted from the finest timber, ensuring durability and style.</p>
+                                        <p class="mb-2 text-muted text-start">Premium quality doors crafted from the finest Product, ensuring durability and style.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
@@ -288,7 +288,7 @@
                                         <a href="pdf/Kaka-door.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="#" class="btn btn-dark w-100">More Details</a>
+                                        <a href="door.php" class="btn btn-dark w-100">More Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -301,60 +301,16 @@
                                         <img src="img/product/2.png" class="img-fluid rounded" alt="Plywoods">
                                     </div>
                                     <div class="col-md-12 col-8">
-                                        <h5 class="mb-1 border-bottom">Plywoods</h5>
+                                        <h5 class="mb-1 border-bottom">Door Plywoods </h5>
                                         <p class="mb-2 text-muted text-start">High-strength, long-lasting plywood for residential and commercial use.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
                                     <div class="col-6">
-                                        <a href="pdf/test.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
+                                        <a href="pdf/G20-doors-ply.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
                                     </div>
                                     <div class="col-6">
-                                        <a href="#" class="btn btn-dark w-100">More Details</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="card shadow p-3">
-                                <div class="row align-items-center">
-                                    <div class="col-md-12 col-4 text-center">
-                                        <img src="img/product/5.png" class="img-fluid rounded" alt="Door Locks">
-                                    </div>
-                                    <div class="col-md-12 col-8">
-                                        <h5 class="mb-1 border-bottom">Door Locks</h5>
-                                        <p class="mb-2 text-muted text-start">Secure and stylish door locks offering safety and modern designs.</p>
-                                    </div>
-                                </div>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-6">
-                                        <a href="pdf/test.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
-                                    </div>
-                                    <div class="col-6">
-                                        <a href="#" class="btn btn-dark w-100">More Details</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="card shadow p-3">
-                                <div class="row align-items-center">
-                                    <div class="col-md-12 col-4 text-center">
-                                        <img src="img/product/7.png" class="img-fluid rounded" alt="Kitchen Cabinetry">
-                                    </div>
-                                    <div class="col-md-12 col-8">
-                                        <h5 class="mb-1 border-bottom">Kitchen Cabinetry</h5>
-                                        <p class="mb-2 text-muted text-start">Elegant and functional kitchen cabinetry solutions designed for modern homes.</p>
-                                    </div>
-                                </div>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-6">
-                                        <a href="pdf/test.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
-                                    </div>
-                                    <div class="col-6">
-                                        <a href="#" class="btn btn-dark w-100">More Details</a>
+                                        <a href="plywood.php" class="btn btn-dark w-100">More Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -368,15 +324,59 @@
                                     </div>
                                     <div class="col-md-12 col-8">
                                         <h5 class="mb-1 border-bottom">Hardware Products</h5>
-                                        <p class="mb-2 text-muted text-start">Top-quality hardware accessories for home and commercial projects.</p>
+                                        <p class="mb-2 text-muted text-start">Top-quality  hardware accessories for home Doors and commercial projects.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
                                     <div class="col-6">
-                                        <a href="pdf/test.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
+                                        <a href="pdf/hardware.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
                                     </div>
                                     <div class="col-6">
                                         <a href="#" class="btn btn-dark w-100">More Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="card shadow p-3">
+                                <div class="row align-items-center">
+                                    <div class="col-md-12 col-4 text-center">
+                                        <img src="img/ply/ply2.jpg" class="img-fluid rounded" alt="G20-doors-ply">
+                                    </div>
+                                    <div class="col-md-12 col-8">
+                                        <h5 class="mb-1 border-bottom">BIGMAN Ply</h5>
+                                        <p class="mb-2 text-muted text-start">Top-quality  Door  Ply  for Home and commercial.</p>
+                                    </div>
+                                </div>
+                                <div class="row g-2 mt-1">
+                                    <div class="col-6">
+                                        <a href="pdf/G20-doors-ply.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="plywood.php" class="btn btn-dark w-100">More Details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide">
+                            <div class="card shadow p-3">
+                                <div class="row align-items-center">
+                                    <div class="col-md-12 col-4 text-center">
+                                        <img src="img/product/4.png" class="img-fluid rounded" alt="Stretta Charcoal Louver">
+                                    </div>
+                                    <div class="col-md-12 col-8">
+                                        <h5 class="mb-1 border-bottom">Stretta Charcoal Louver</h5>
+                                        <p class="mb-2 text-muted text-start">Modern, sleek, durable, stylish, ventilated, weather-resistant, elegant, functional, bold.</p>
+                                    </div>
+                                </div>
+                                <div class="row g-2 mt-1">
+                                    <div class="col-6">
+                                        <a href="pdf/Kaka-Stretta-Charcoal-Louvers-V-1.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="plywood.php" class="btn btn-dark w-100">More Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -386,7 +386,7 @@
                 </div>
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <a href="" class="btn btn-dark">See More <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="product.php" class="btn btn-dark">See More <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
