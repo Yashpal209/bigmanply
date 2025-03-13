@@ -203,64 +203,63 @@
                         <div class="card  shadow p-3">
                             <img src="img/categories/1.png" class="img-fluid rounded" alt="Doors" style="max-width: 100%;">
                             <h5 class="mt-3">Doors</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="door.php" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/2.png" class="img-fluid rounded" alt="Plywoods" style="max-width: 100%;">
                             <h5 class="mt-3">Plywoods</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="plywood.php" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
-                            <img src="img/categories/3.png" class="img-fluid rounded" alt="WPC Products" style="max-width: 100%;">
-                            <h5 class="mt-3">WPC Products</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <img src="img/categories/3.png" class="img-fluid rounded" alt="Doors Ply" style="max-width: 100%;">
+                            <h5 class="mt-3">WPC Doors </h5>
+                            <a href="pdf/Kaka-Profile-Door-Catalogue.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/4.png" class="img-fluid rounded" alt="Luvar" style="max-width: 100%;">
                             <h5 class="mt-3">Louver</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="pdf/Kaka-Stretta-Charcoal-Louvers-V-1.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/5.png" class="img-fluid rounded" alt="Door Locks" style="max-width: 100%;">
                             <h5 class="mt-3">Door Locks</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="lock.php" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/6.png" class="img-fluid rounded" alt="Hardware Products" style="max-width: 100%;">
                             <h5 class="mt-3">Hardware Products</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="pdf/hardware.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/7.png" class="img-fluid rounded" alt="Kitchen cabinetry" style="max-width: 100%;">
                             <h5 class="mt-3">Kitchen Cabinetry</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="kitchan.php" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/8.png" class="img-fluid rounded" alt="Wardrobes" style="max-width: 100%;">
                             <h5 class="mt-3">Wardrobes</h5>
-                            <a href="#" class="btn btn-primary w-100"> See More Products</a>
+                            <a href="wardrobes.php" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
                 </div>
 
-
                 <div class="row text-center">
                     <div class="col-md-12">
-                        <a href="#" class="btn btn-dark">See More <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="product.php" class="btn btn-dark">See More <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -280,13 +279,13 @@
                                         <img src="img/product/1.png" class="img-fluid rounded" alt="Doors">
                                     </div>
                                     <div class="col-md-12 col-8">
-                                        <h5 class="mb-1 border-bottom">Doors</h5>
+                                        <h5 class="mb-1 border-bottom">Kaka Door</h5>
                                         <p class="mb-2 text-muted text-start">Premium quality doors crafted from the finest timber, ensuring durability and style.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
                                     <div class="col-6">
-                                        <a href="pdf/test.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
+                                        <a href="pdf/Kaka-door.pdf" class="btn btn-primary w-100"><i class="fa-solid fa-download"></i></a>
                                     </div>
                                     <div class="col-6">
                                         <a href="#" class="btn btn-dark w-100">More Details</a>

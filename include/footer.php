@@ -13,19 +13,18 @@
             </div>
 
             <div class="col-md-2">
-                <h3><p class="footer-link d-inline" href="#">Our Services</p></h3>
-                <p><a href="custom_design.php">Custom Interior Design</a></p>
-                <p><a href="furniture.php">Furniture Collection</a></p>
-                <p><a href="home_decor.php">Home Décor</a></p>
-                <p><a href="modular_kitchen.php">Modular Kitchen</a></p>
-                <p><a href="consultation.php">Design Consultation</a></p>
+                <h3><p class="footer-link d-inline" href="#">Our Product</p></h3>
+                <p><a href="door.php">Doors</a></p>
+                <p><a href="lock.php">Door Locks</a></p>
+                <p><a href="PlyWood.php">PlyWood</a></p>
+                <p><a href="kitchan.php">Kitchen Cabinetry</a></p>
             </div>
 
             <div class="col-md-2">
                 <h3><p class="footer-link d-inline" href="#">Quick Links</p></h3>
                 <p><a href="index.php">Home</a></p>
-                <p><a href="shop.php">Shop</a></p>
-                <p><a href="Services.php">Services</a></p>
+                <p><a href="product.php">Product</a></p>
+                <p><a href="services.php">Services</a></p>
                 <p><a href="about.php">About Us</a></p>
                 <p><a href="contact.php">Contact Us</a></p>
             </div>
@@ -46,8 +45,7 @@
                 <p class="text-start">
                     © 2025 Bigmanply. All Rights Reserved.
                     <a href="#">Privacy Policy</a> |
-                    <a href="#">Terms & Conditions</a> |
-                    <a href="#">Return Policy</a>
+                    <a href="#">Terms & Conditions</a> 
                     <br>
                     Designed by <a href="https://www.jharkhanditservices.com/" target="_blank">Jharkhand IT Services</a>
                 </p>

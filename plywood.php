@@ -53,154 +53,44 @@
             </div>
         </section>
 
-        <section class="key bg-light py-1">
-            <div class="container text-center">
-                <div class="swiper about-slider p-3">
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/save-the-world.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Eco-Friendly</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/fireproof.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Fire Retardant</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/water.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Water Resistant</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/recycling.svg" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Recycle</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/reliability.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">High Durability</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/audio.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Sound Insulation</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/shield.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Scratch & Impact Resistant</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/water-resistant.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Weather Resistant</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include 'try.php' ?>
 
         <section class=" py-4">
             <div class="container text-center">
                 <h2>Plywoods Products</h2>
                 <div class="row text-center py-3">
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply1.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply1.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply2.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply2.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply3.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply3.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply4.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply4.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply5.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply5.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply6.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply6.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>
-                    <div class="col-md-3 col-6">
-                        <img src="data/ply/ply7.jpg" width="100%" alt="">
+                    <div class="col-md-3 ">
+                        <img src="img/ply/ply7.jpg" width="100%" alt="">
                         <h5 class="pt-2">Plywoods</h5>
                         <p> Name </p>
                     </div>

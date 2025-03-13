@@ -14,7 +14,7 @@
     </div>
 
     <main>
-        
+
 
         <section class=" breadcrumb bg-light py-2">
             <div class="container">
@@ -40,7 +40,7 @@
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
-                            <img src="img/categories/biomatric .png" class="img-fluid rounded" alt="Plywoods" style="max-width: 100%;">
+                            <img src="img/categories/biomatric.png" class="img-fluid rounded" alt="Plywoods" style="max-width: 100%;">
                             <h5 class="mt-3"> Biomatric Doors Lock</h5>
                         </div>
                     </div>
@@ -54,7 +54,7 @@
             </div>
         </section>
 
-        <section class="key bg-light py-4">
+        <section class="key  py-4" style="background-color: #f3f3f3f0;">
             <div class="container text-center">
                 <div class="swiper about-slider p-3">
                     <div class="swiper-wrapper">
@@ -62,11 +62,11 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/recycling.svg" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/finger-print-outline.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Recycle</h5>
+                                        <h5 class="mb-1 fw-bold">Biometric Access</h5>
                                     </div>
                                 </div>
                             </div>
@@ -75,11 +75,11 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/fireproof.png" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/lock-hashtag-svgrepo-com.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Fire Retardant</h5>
+                                        <h5 class="mb-1 fw-bold">Keyless Entry</h5>
                                     </div>
                                 </div>
                             </div>
@@ -88,11 +88,11 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/water.png" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/shield.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Water Resistant</h5>
+                                        <h5 class="mb-1 fw-bold">Enhanced Security</h5>
                                     </div>
                                 </div>
                             </div>
@@ -101,11 +101,11 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/reliability.png" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/lock-password-unlocked.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">High Durability</h5>
+                                        <h5 class="mb-1 fw-bold">Smart Lock Integration</h5>
                                     </div>
                                 </div>
                             </div>
@@ -114,11 +114,11 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/save-the-world.png" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/strong-man-svgrepo-com.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Eco-Friendly</h5>
+                                        <h5 class="mb-1 fw-bold">Durable Metal Build</h5>
                                     </div>
                                 </div>
                             </div>
@@ -127,33 +127,7 @@
                         <div class="swiper-slide">
                             <div class="p-3">
                                 <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/audio.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Sound Insulation</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/shield.png" alt="Bigmanply">
-                                </center>
-                                <div class="row g-2 mt-1">
-                                    <div class="col-md-12">
-                                        <h5 class="mb-1 fw-bold">Scratch & Impact Resistant</h5>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="p-3">
-                                <center>
-                                    <img class=" img-fluid hover-zoom w-50" src="img/icons/water-resistant.png" alt="Bigmanply">
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/water-resistant.png" alt="Bigmanply">
                                 </center>
                                 <div class="row g-2 mt-1">
                                     <div class="col-md-12">
@@ -162,6 +136,20 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="swiper-slide">
+                            <div class="p-3">
+                                <center>
+                                    <img class="img-fluid hover-zoom w-50" src="img/icons/water.png" alt="Bigmanply">
+                                </center>
+                                <div class="row g-2 mt-1">
+                                    <div class="col-md-12">
+                                        <h5 class="mb-1 fw-bold">Anti-Tamper Protection</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -173,22 +161,22 @@
                 <div class="row text-center py-3">
                     <div class="col-md-3  py-2 ">
                         <div class="card shadow hover-zoom">
-                            <a href="data/door-lock/lock.jpg" data-lightbox="doors-gallery" data-title="Door 1">
-                                <img src="data/door-lock/lock.jpg" class=" rounded w-100" alt="door">
+                            <a href="img/door-lock/lock.jpg" data-lightbox="doors-gallery" data-title="Door 1">
+                                <img src="img/door-lock/lock.jpg" class=" rounded w-100" alt="door">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3  py-2 ">
                         <div class="card shadow hover-zoom ">
-                            <a href="data/door-lock/lock1.jpg" data-lightbox="doors-gallery" data-title="Door 1">
-                                <img src="data/door-lock/lock1.jpg" class=" rounded w-100" alt="door">
+                            <a href="img/door-lock/lock1.jpg" data-lightbox="doors-gallery" data-title="Door 1">
+                                <img src="img/door-lock/lock1.jpg" class=" rounded w-100" alt="door">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3  py-2 ">
                         <div class="card shadow hover-zoom ">
-                            <a href="data/door-lock/lock2.jpg" data-lightbox="doors-gallery" data-title="Door 1">
-                                <img src="data/door-lock/lock2.jpg" class=" rounded w-100" alt="door">
+                            <a href="img/door-lock/lock2.jpg" data-lightbox="doors-gallery" data-title="Door 1">
+                                <img src="img/door-lock/lock2.jpg" class=" rounded w-100" alt="door">
                             </a>
                         </div>
                     </div>
@@ -199,7 +187,7 @@
 
         <section class=" bg-light py-4">
             <div class="container text-center">
-                <h2> Door  Lock Catalogue</h2>
+                <h2>Metal Doors Lock Catalogue</h2>
                 <div class="row text-center py-3">
                     <div class="col-md-12 col-12 py-2 ">
                         <iframe src="pdf/hardware.pdf" width="100%" height="500px" frameborder="0"></iframe>

@@ -27,7 +27,7 @@
                                             </ul>
                                         </li>
                                         <li><a class="dropdown-item" href="plywood.php">Plywoods</a></li>
-                                        <li><a class="dropdown-item" href="G20-doors-ply.pdf">Doors Ply</a></li>
+                                        <li><a class="dropdown-item" href="pdf/G20-doors-ply.pdf">Doors Ply</a></li>
                                         <li><a class="dropdown-item" href="pdf/Kaka-Profile-Door-Catalogue.pdf">WPC Doors</a></li>
                                         <li><a class="dropdown-item" href="pdf/PVC-FLUTED-WALL-&-CEILING-PANEL.pdf">PVC Fluted Wall & Ceiling Panel</a></li>
                                         <li><a class="dropdown-item" href="pdf/KAKA-PVC-Laminate.pdf">PVC Laminate</a></li>
@@ -40,7 +40,10 @@
                                     <a class="nav-link dropdown-toggle" href="#" id="servicesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Addition Products</a>
                                     <ul class="dropdown-menu" aria-labelledby="servicesDropdown">
                                         <li><a class="dropdown-item" href="lock.php">Door Lock</a></li>
+                                        <li><a class="dropdown-item" href="handels.php">Door Handels</a></li>
                                         <li><a class="dropdown-item" href="pdf/hardware.pdf">Hardware</a></li>
+                                        <li><a class="dropdown-item" href="wardrobes.php">Wardrobes</a></li>
+                                        <li><a class="dropdown-item" href="kitchan.php">Kitchan Cabinetry</a></li>
                                     </ul>
                                 </li>
                                 <li class="nav-item"><a class="nav-link" href="services.php">Services</a></li>
