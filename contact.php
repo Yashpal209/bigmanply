@@ -20,24 +20,28 @@
                 <div class="row p-2">
                     <div class="col-md-4 m-0 p-0">
                         <div class="form-section shadow">
-                            <form id="contactForm">
+                            <form action="action.php" method="POST">
                                 <div class="mb-2">
                                     <label class="form-label">Your Name *</label>
-                                    <input type="text" class="form-control" placeholder="Enter Your Name">
+                                    <input type="text" name="name" class="form-control" placeholder="Enter Your Name" required>
                                 </div>
                                 <div class="mb-2">
                                     <label class="form-label">Email *</label>
-                                    <input type="email" class="form-control" placeholder="Enter Your Email">
+                                    <input type="email" name="email" class="form-control" placeholder="Enter Your Email" required>
                                 </div>
                                 <div class="mb-2">
                                     <label class="form-label">Phone *</label>
-                                    <input type="text" class="form-control" placeholder="Enter Your Mobile No">
+                                    <input type="text" name="phone" class="form-control" placeholder="Enter Your Mobile No" required>
+                                </div>
+                                <div class="mb-2">
+                                    <label class="form-label">Subject </label>
+                                    <input type="text" name="subject" class="form-control" placeholder="Enter Your Subject" required>
                                 </div>
                                 <div class="mb-3">
                                     <label class="form-label">Message</label>
-                                    <textarea class="form-control" placeholder="Tell us about your needs"></textarea>
+                                    <textarea name="messages" class="form-control" placeholder="Tell us about your needs"></textarea>
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit </button>
+                                <button type="submit" name="contactus" class="btn btn-primary">Submit Inquiry</button>
                             </form>
                         </div>
                     </div>

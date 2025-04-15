@@ -205,10 +205,10 @@
         }
     });
 </script>
-<script>
+<!-- <script>
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault(); // Prevent page refresh
     alert('Thank you! Your message has been submitted.');
     this.reset(); // Clear form after submission
-});
+}); -->
 </script>

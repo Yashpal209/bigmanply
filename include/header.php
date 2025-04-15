@@ -140,24 +140,24 @@
             </div>
             <div class="modal-body">
                 <div class="form-section">
-                    <form id="contactForm">
+                    <form action="action.php" method="POST">
                         <div class="mb-2">
                             <label class="form-label">Your Name *</label>
-                            <input type="text" class="form-control" placeholder="Enter Your Name">
+                            <input type="text" name="name" class="form-control" placeholder="Enter Your Name">
                         </div>
                         <div class="mb-2">
                             <label class="form-label">Email *</label>
-                            <input type="email" class="form-control" placeholder="Enter Your Email">
+                            <input type="email" name="email" class="form-control" placeholder="Enter Your Email">
                         </div>
                         <div class="mb-2">
                             <label class="form-label">Phone *</label>
-                            <input type="text" class="form-control" placeholder="Enter Your Mobile No">
+                            <input type="text" name="phone" class="form-control" placeholder="Enter Your Mobile No">
                         </div>
                         <div class="mb-3">
                             <label class="form-label">Message</label>
-                            <textarea class="form-control" placeholder="Tell us about your needs"></textarea>
+                            <textarea name="messages" class="form-control" placeholder="Tell us about your needs"></textarea>
                         </div>
-                        <button type="submit" class="btn btn-black">Submit Inquiry</button>
+                        <button type="submit" name="Enquiry" class="btn btn-primary">Submit Inquiry</button>
                     </form>
                 </div>
             </div>

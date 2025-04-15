@@ -215,7 +215,7 @@
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
-                            <img src="img/categories/3.png" class="img-fluid rounded" alt="Doors Ply" style="max-width: 100%;">
+                            <img src="img/categories/13.png" class="img-fluid rounded" alt="Doors Ply" style="max-width: 100%;">
                             <h5 class="mt-3">WPC Doors </h5>
                             <a href="pdf/Kaka-Profile-Door-Catalogue.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
@@ -223,7 +223,7 @@
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/4.png" class="img-fluid rounded" alt="Luvar" style="max-width: 100%;">
-                            <h5 class="mt-3">Louver</h5>
+                            <h5 class="mt-3">Louvers</h5>
                             <a href="pdf/Kaka-Stretta-Charcoal-Louvers-V-1.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
@@ -324,7 +324,7 @@
                                     </div>
                                     <div class="col-md-12 col-8">
                                         <h5 class="mb-1 border-bottom">Hardware Products</h5>
-                                        <p class="mb-2 text-muted text-start">Top-quality  hardware accessories for home Doors and commercial projects.</p>
+                                        <p class="mb-2 text-muted text-start">Top-quality hardware accessories for home Doors and commercial projects.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
@@ -346,7 +346,7 @@
                                     </div>
                                     <div class="col-md-12 col-8">
                                         <h5 class="mb-1 border-bottom">BIGMAN Ply</h5>
-                                        <p class="mb-2 text-muted text-start">Top-quality  Door  Ply  for Home and commercial.</p>
+                                        <p class="mb-2 text-muted text-start">Top-quality Door Ply for Home and commercial.</p>
                                     </div>
                                 </div>
                                 <div class="row g-2 mt-1">
@@ -359,7 +359,7 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                         <div class="swiper-slide">
                             <div class="card shadow p-3">
                                 <div class="row align-items-center">
@@ -433,24 +433,24 @@
                     <div class="col-md-4 m-0 p-0">
                         <div class="form-section shadow">
                             <h4>Get a Free Consultation</h4>
-                            <form id="contactForm">
+                            <form action="action.php" method="POST">
                                 <div class="mb-2">
                                     <label class="form-label">Your Name *</label>
-                                    <input type="text" class="form-control" placeholder="Enter Your Name">
+                                    <input type="text" name="name" class="form-control" placeholder="Enter Your Name">
                                 </div>
                                 <div class="mb-2">
                                     <label class="form-label">Email *</label>
-                                    <input type="email" class="form-control" placeholder="Enter Your Email">
+                                    <input type="email" name="email" class="form-control" placeholder="Enter Your Email">
                                 </div>
                                 <div class="mb-2">
                                     <label class="form-label">Phone *</label>
-                                    <input type="text" class="form-control" placeholder="Enter Your Mobile No">
+                                    <input type="text" name="phone" class="form-control" placeholder="Enter Your Mobile No">
                                 </div>
                                 <div class="mb-3">
                                     <label class="form-label">Message</label>
-                                    <textarea class="form-control" placeholder="Tell us about your needs"></textarea>
+                                    <textarea name="messages" class="form-control" placeholder="Tell us about your needs"></textarea>
                                 </div>
-                                <button type="submit" class="btn btn-primary">Submit Inquiry</button>
+                                <button type="submit" name="Enquiry" class="btn btn-primary">Submit Inquiry</button>
                             </form>
                         </div>
                     </div>
@@ -485,7 +485,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-2">
-                        <h3 class="counter" data-target="2000">0+</h3>
+                        <h3 class="counter" data-target="3000">0+</h3>
                         <p class="counter-label">Happy Customers</p>
                     </div>
                     <div class="col-md-2">
@@ -493,7 +493,7 @@
                         <p class="counter-label">Projects Completed</p>
                     </div>
                     <div class="col-md-2">
-                        <h3 class="counter" data-target="250">0+</h3>
+                        <h3 class="counter" data-target="750">0+</h3>
                         <p class="counter-label">Dealer Network</p>
                     </div>
                     <div class="col-md-2">

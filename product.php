@@ -46,7 +46,7 @@
                     </div>
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
-                            <img src="img/categories/3.png" class="img-fluid rounded" alt="Doors Ply" style="max-width: 100%;">
+                            <img src="img/categories/13.png" class="img-fluid rounded" alt="Doors Ply" style="max-width: 100%;">
                             <h5 class="mt-3">WPC Doors </h5>
                             <a href="pdf/Kaka-Profile-Door-Catalogue.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
@@ -54,7 +54,7 @@
                     <div class="col-md-3 my-4">
                         <div class="card shadow p-3">
                             <img src="img/categories/4.png" class="img-fluid rounded" alt="Luvar" style="max-width: 100%;">
-                            <h5 class="mt-3">Louver</h5>
+                            <h5 class="mt-3">Louvers</h5>
                             <a href="pdf/Kaka-Stretta-Charcoal-Louvers-V-1.pdf" target="_blank" class="btn btn-primary w-100"> See More Products</a>
                         </div>
                     </div>
@@ -88,11 +88,11 @@
                     </div>
                 </div>
 
-                <div class="row text-center">
+                <!-- <div class="row text-center">
                     <div class="col-md-12">
                         <a href="product.php" class="btn btn-dark">See More <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </section>
 
